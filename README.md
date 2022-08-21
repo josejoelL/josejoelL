@@ -17,14 +17,11 @@ Here are some ideas to get you started:
 
 
 
-<h3>Landeron introduction</h3>
-<p> - 🔭 I have worked on projects for mobile apps, webs, and apis developments with node.js and custom fronts.  </p>
-<p> - 🌱 I’m currently learning UI/UX  </p>
-<p> - 👯 I’m looking to collaborate on react projects </p>
-<p> - 🤔 I’m looking for help with defold, the new engine for mobile videogames </p>
-<p> - 💬 Ask me about anime </p>
-<p> - 📫 How to reach me: @Landeron </p>
-<p> - ⚡ Fun fact: the name of the dog of one of my programming teacher of university is java </p>
+<h3>JoJo introduction</h3>
+<p> - 🔭 I’m currently working on my portafolio proyects  </p>
+<p> - 🌱 I’m currently learning Javascript  </p>
+<p> - 🤔 I’m looking for help with reactNative  </p>
+<p> - 💬 Ask me in discord about anything </p>
 <p>
  </p>
 <p>
