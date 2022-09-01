@@ -14,27 +14,56 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left"><b><samp>「</samp></b></p>
+  <p align="center">
+    <samp>
+      Other day <br>
+      Other coin.
+    </samp>
+  </p>
+<p align="right"><b><samp>」</samp></b></p>
+<p align="center"><samp>I'm JoseJoel Landeros</samp></p>
+<br><br>
 
-
-
-<h3>JoJo introduction</h3>
-<p> - 🔭 I’m currently working on my portafolio proyects  </p>
-<p> - 🌱 I’m currently learning Javascript  </p>
-<p> - 🤔 I’m looking for help with reactNative  </p>
-<p> - 💬 Ask me in discord about anything </p>
-<p>
- </p>
-<p>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/533da8800843b57b91a3227ce7d151ca865a0eeaae675715e209c0092314fa96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465"><img alt="React" src="https://camo.githubusercontent.com/533da8800843b57b91a3227ce7d151ca865a0eeaae675715e209c0092314fa96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&amp;logo=react&amp;logoColor=white" style="max-width:100%;"></a>
-
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/561f3d4fd727fcca82984c91a65eca069ff34a435072158f6947c4ca52370eae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465"><img alt="git" src="https://camo.githubusercontent.com/561f3d4fd727fcca82984c91a65eca069ff34a435072158f6947c4ca52370eae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" style="max-width:100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/1e50ab849e8c196ea962ac3b966a15924234879eeb85f9dd0e0431e43a145b43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e504d2d4342333833373f7374796c653d666c61742d737175617265266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465"><img alt="npm" src="https://camo.githubusercontent.com/1e50ab849e8c196ea962ac3b966a15924234879eeb85f9dd0e0431e43a145b43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e504d2d4342333833373f7374796c653d666c61742d737175617265266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&amp;logo=npm&amp;logoColor=white" style="max-width:100%;"></a>
-
-    
-</p>
-
-
+<details align="center">
+<summary><samp>continue.</samp></summary>
+<h2></h2>
+ <p align="center">
+  <samp>Technologies I've touched.</samp>
+  <br><br>
+  <samp>
+    <samp>
+      <img height="30" src="https://user-images.githubusercontent.com/40969170/176788707-7fbb4a06-9885-4b0e-8e9e-540f3d4f880e.png">
+    </samp>&nbsp;
+   
+    <samp>
+      <img height="25" src="https://user-images.githubusercontent.com/40969170/176788766-df23cb10-d369-4465-ad33-8b81dd6dcaf2.png">
+    </samp>&nbsp;
+   
+    <samp>
+      <img height="25" src="https://user-images.githubusercontent.com/40969170/176789828-bf3951f7-2467-4115-a6f8-b90987fc3d82.png">
+    </samp>&nbsp;
+   
+    <samp>
+    <img height="25" src="https://user-images.githubusercontent.com/40969170/176788796-88fa1950-cff3-40e2-ae25-a4a680fa4499.png">
+    </samp>&nbsp;
+   
+</p><br>
+<table align="center">
+  <tr>
+    <td>
+      <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseJoelL&layout=compact&private=true&title_color=FE4EBA&langs_count=11&hide_border=true&theme=nord" />
+     </td>
+     <td>
+      <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api?username=JoseJoelL&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord&title_color=FE4EBA" />
+     </td>
+    </tr>
+  </table>
+<br><br>
 
 <p><a href="https://github.com/josejoelL"><img alt="Github" src="https://camo.githubusercontent.com/297212f5cfd71f14f1a774a22bfd24b24bfa996aa72f4d941f790c8606ca8f0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub-%2312100E.svg?&amp;style=for-the-badge&amp;logo=Github&amp;logoColor=white" style="max-width:100%;"></a> <a href="https://www.linkedin.com/in/jose-joel-landeros-ab45221a1/ //" rel="nofollow"><img alt="LinkedIn" src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;"></a> 
 </p>
-
+<samp>
+  <p align="center">do{contact(<a href="mailto:Landeroncontact@gmail.com">Email</a>); peek(<a href="">LinkedIn</a>); visit(<a href="">PortfolioWebsite</a>)}</p>
+</samp>
+</details>
