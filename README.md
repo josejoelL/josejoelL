@@ -47,7 +47,7 @@ Here are some ideas to get you started:
     <samp>
     <img height="25" src="https://user-images.githubusercontent.com/40969170/176788796-88fa1950-cff3-40e2-ae25-a4a680fa4499.png">
     </samp>&nbsp;
-   
+   <samp>  
 </p><br>
 <table align="center">
   <tr>
