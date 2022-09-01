@@ -31,7 +31,7 @@ Here are some ideas to get you started:
  <p align="center">
   <samp>Technologies I've touched.</samp>
   <br><br>
-
+ <samp>
     <samp>
       <img height="30" src="https://user-images.githubusercontent.com/40969170/176788707-7fbb4a06-9885-4b0e-8e9e-540f3d4f880e.png">
     </samp>&nbsp;
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
       <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseJoelL&layout=compact&private=true&title_color=FE4EBA&langs_count=11&hide_border=true&theme=nord" />
      </td>
      <td>
-      <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api?username=JoseJoelL&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord&title_color=FE4EBA" />
+      <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api?username=JoseJoelL&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord&title_color=469B88" />
      </td>
     </tr>
   </table>
