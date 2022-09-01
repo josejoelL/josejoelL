@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 <h2></h2>
  <p align="center">
   <samp>Technologies I've touched.</samp>
-  <br><br>
-
+ <br><br>
+  <samp>
     <samp>
       <img height="30" src="https://user-images.githubusercontent.com/40969170/176788707-7fbb4a06-9885-4b0e-8e9e-540f3d4f880e.png">
     </samp>&nbsp;
@@ -46,18 +46,25 @@ Here are some ideas to get you started:
    
     <samp>
     <img height="25" src="https://user-images.githubusercontent.com/40969170/176788796-88fa1950-cff3-40e2-ae25-a4a680fa4499.png">
-    </samp>&nbsp;
-
+     </samp>
+  <br><br>
+  </samp>
+</p>
+<p align="center">
+  <samp>freeTime ? learn(programming) && learn(linux) : watch(anime) || read(manga);</samp>
+</p><br>
+<table align="center">
+  <tr>
     <td>
       <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseJoelL&layout=compact&private=true&title_color=469B88&langs_count=11&hide_border=true&theme=nord" />
      </td>
      <td>
       <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api?username=JoseJoelL&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord&title_color=469B88" />
+   
      </td>
     </tr>
   </table>
 <br><br>
-
 <samp>
   <p align="center">do{contact(<a href="mailto:Landeroncontact@gmail.com">Email</a>); peek(<a href="https://www.linkedin.com/in/jose-joel-landeros-ab45221a1/">LinkedIn</a>); visit(<a href="">PortfolioWebsite</a>)}</p>
 </samp>
