@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left"><b><samp>「</samp></b></p>
+<p align="left"><b><samp>return(</samp></b></p>
   <p align="center">
     <samp>
-      Other day <br>
-      Other coin.
+      Hello <br>
+      Word.
     </samp>
   </p>
-<p align="right"><b><samp>」</samp></b></p>
+<p align="right"><b><samp>);</samp></b></p>
 <p align="center"><samp>I'm JoseJoel Landeros</samp></p>
 <br><br>
 
@@ -36,33 +36,18 @@ Here are some ideas to get you started:
       <img height="30" src="https://user-images.githubusercontent.com/40969170/176788707-7fbb4a06-9885-4b0e-8e9e-540f3d4f880e.png">
     </samp>&nbsp;
    
-    <samp>
-      <img height="25" src="https://user-images.githubusercontent.com/40969170/176788766-df23cb10-d369-4465-ad33-8b81dd6dcaf2.png">
-    </samp>&nbsp;
-   
-    <samp>
-      <img height="25" src="https://user-images.githubusercontent.com/40969170/176789828-bf3951f7-2467-4115-a6f8-b90987fc3d82.png">
-    </samp>&nbsp;
-   
-    <samp>
-    <img height="25" src="https://user-images.githubusercontent.com/40969170/176788796-88fa1950-cff3-40e2-ae25-a4a680fa4499.png">
-     </samp>
-  <br><br>
-  </samp>
+  
 </p>
-<p align="center">
-  <samp>freeTime ? learn(programming) && learn(linux) : watch(anime) || read(manga);</samp>
+
 </p><br>
 <table align="center">
   <tr>
     <td>
-      <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseJoelL&layout=compact&private=true&title_color=469B88&langs_count=11&hide_border=true&theme=nord" />
+      <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseJoelL&layout=compact&private=true&title_color=9AEBA3&langs_count=11&hide_border=true&theme=nord" />
      </td>
      <td>
-      <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api?username=JoseJoelL&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord&title_color=469B88" />
+      <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api?username=JoseJoelL&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord&title_color=9AEBA3" />
    
-     </td>
-    </tr>
   </table>
 <br><br>
 <samp>
