@@ -51,8 +51,7 @@ Here are some ideas to get you started:
   </table>
 <br><br>
 <samp>
-  <p align="center">do{contact(<a href="mailto:Landeros.contacto@gmail.com">Email</a>); 
-peek(<a href="[https://www.linkedin.com/in/jose-joel-landeros-santos-ab45221a1/]">LinkedIn</a>);
-    visit(<a href="">PortfolioWebsite</a>)}</p>
+  <p align="center">do{contact(<a href="mailto:Landeroncontact@gmail.com">Email</a>); peek(<a href="https://www.linkedin.com/in/jose-joel-landeros-santos-ab45221a1/">LinkedIn</a>); visit(<a href="">PortfolioWebsite</a>)}</p>
+</samp>
 </samp>
 </details>
